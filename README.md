@@ -10,7 +10,14 @@ sOCRates is a post-OCR text correction method that relies on contextual word emb
 - Install the requirements by using the reqs.txt file
 - Install and configure Aspell for portuguese
 - Download data (unigrams, bigrams and word-embeddings model) and place it in word_correction folder
+```
+	https://mega.nz/file/a2xwlDaT#x3wjns6doZaqs6Q2wcTC3-JxUr0UeU26eoPdHJho-84
+```
 - Download the fine-tuned Bert model
+```
+	https://mega.nz/file/enIVFSCQ#tJtk4_1OpkMNX-ga_HZYdi7GKL4VQun4iNWYaZOTPjg
+	https://mega.nz/file/r2ZB1QZL#LC7jjKSB361gGzS0Jfj6QBcBcKc5W5ny4dUpkJXY_ms
+```	
 
 ## Example usage
 ```

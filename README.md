@@ -3,6 +3,10 @@
 
 sOCRates is a post-OCR text correction method that relies on contextual word embeddings and on a classifier that uses format, semantic, and syntactic similarity features.
 
+## Edit distance adapted to OCR error detection
+Similarity function based on the Levenshtein distance, changing the way the weights are assigned to the substitutions.
+![stack Overflow](https://github.com/dannysv/sOCRates/blob/master/Edit_distance_adapted_for_OCR.png)
+
 ## Configuration
 
 - Download the repository
